@@ -1,2 +1,3 @@
 # PR1-ULA
-Repositorio para proyectos de PR1 ULA de Santiago Gonzalez
+Repositorio para proyectos y ejercicios de Programación 1 de Santiago Gonzalez
+Incluye ejercicios en C
