@@ -1,8 +1,13 @@
 # PR1-ULA
-Repositorio para proyectos y ejercicios de Programación 1 de Santiago Gonzalez
 
-Incluye ejercicios en C como:
+**Repositorio para proyectos y ejercicios de Programación 1 de Santiago Gonzalez**
 
-primero.c - Hecho con la libreria pr1-ula, muestra un pequeño saludo a la clase.
+Incluye 2 carpetas llamadas __ejerciciosClase__ y __ejerciciosPersonales__.
 
-hello.c - Un "hello world" estándar pero en el idioma Español, hecho con la libreria "stdio.h"
+## ejerciciosClase 
+
+Son código referente a las clases, ya sean ejercicios que se asignen o algunos ejemplos.
+
+## ejerciciosPersonales 
+
+Son ejercicios que encontré en internet y decidí resolverlos para prácticar por mi cuenta.
