@@ -1,3 +1,4 @@
 # Ignora las librerias de PR1-ULA
 *.h
 *.o
+.directory
